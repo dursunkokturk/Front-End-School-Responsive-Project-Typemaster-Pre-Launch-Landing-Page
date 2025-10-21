@@ -64,4 +64,14 @@
   background-color: #F16718;
   padding: 11px 14px;
   /* border-radius: 20%; */
+  margin-bottom: 64px;
+}
+
+.keyboard-1 {
+  margin-left: 20px;
+  margin-bottom: 24px;
+}
+
+.keyboard-2 {
+  margin-right: 24px;
 }
