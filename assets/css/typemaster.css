@@ -34,7 +34,7 @@
   color: #162542;
 }
 
-.container h1 {
+.container .typemaster {
   font-family: Barlow;
   font-size: 48px;
   margin-inline: 24px;
@@ -72,6 +72,50 @@
   margin-bottom: 24px;
 }
 
+.keyboard {
+  margin-bottom: 75px;
+}
+
 .keyboard-2 {
   margin-right: 24px;
+}
+
+.keyboard-title-and-write {
+  margin-bottom: 111px;
+}
+
+.title {
+  font-family: Barlow;
+  font-size: 32px;
+  line-height: 36px;
+  /* width: 255px; */
+  margin-inline: 60px;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.write {
+  font-family: Barlow;
+  font-size: 16px;
+  font-weight: 500;
+  color: #7B8BAD;
+  margin-inline: 24px;
+}
+
+.logo {
+  margin-inline: 155px;
+  margin-bottom: 48px;
+}
+
+.logo-title-write h2 {
+  font-family: Barlow;
+  font-size: 24px;
+  line-height: 28px;
+  margin-inline: 24px;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+span {
+  font-weight: 700;
 }
