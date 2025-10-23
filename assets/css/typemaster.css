@@ -178,6 +178,10 @@ span {
     border: 1px solid black;
     width: 768px;
   }
+
+  .hero h4 {
+    margin-left: 410px;
+  }
 }
 
 /* Tablet End */
