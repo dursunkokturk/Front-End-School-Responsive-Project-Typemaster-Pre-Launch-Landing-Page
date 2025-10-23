@@ -86,15 +86,27 @@
   align-content: center;
 }
 
-.crop-vertical {
-  width: 94%;
+.crop-vertical-keyboard-1 {
+  width: 90%;
   overflow: hidden;
 }
 
-.crop-vertical img {
+.crop-vertical-keyboard-1 img {
   width: 372px;
   height: 331px;
   margin-left: 24px;
+}
+
+/* .crop-vertical-keyboard-2 {
+  width: 25%;
+  overflow: hidden;
+} */
+
+.crop-vertical-keyboard-2 img {
+  width: 129px;
+  height: 193px;
+  /* margin-left: 24px; */
+  clip-path: inset(0 0 0 10px);
 }
 
 .keyboard-1 {
