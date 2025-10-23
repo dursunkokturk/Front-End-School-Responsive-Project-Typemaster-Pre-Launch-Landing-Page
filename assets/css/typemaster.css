@@ -171,3 +171,13 @@ span {
 }
 
 /* Mobile End */
+
+/* Tablet Start */
+@media (width > 760px) {
+  .container {
+    border: 1px solid black;
+    width: 768px;
+  }
+}
+
+/* Tablet End */
