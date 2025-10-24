@@ -246,6 +246,7 @@ span {
   
   .write {
     width: 300px;
+    align-content: center;
   }
 }
 
