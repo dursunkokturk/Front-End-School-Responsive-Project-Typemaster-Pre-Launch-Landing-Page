@@ -268,3 +268,11 @@ span {
 }
 
 /* Tablet End */
+
+/* Computer Start */
+@media (width > 1024px) {
+  .container {
+    border: 1px solid black;
+    width: 1440px;
+  }
+}
