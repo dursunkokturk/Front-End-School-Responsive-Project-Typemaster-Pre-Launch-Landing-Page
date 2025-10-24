@@ -273,6 +273,10 @@ span {
 @media (width > 1024px) {
   .container {
     border: 1px solid black;
-    width: 1440px;
+    width: 1110px;
+  }
+
+  .hero img {
+    margin-right: 400px;
   }
 }
