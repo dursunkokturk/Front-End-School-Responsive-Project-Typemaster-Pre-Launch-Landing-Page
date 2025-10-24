@@ -215,6 +215,13 @@ span {
     grid-column: 1 / span 2;
   }
 
+  /* .item-5, */
+  .item-6,
+  /* .item-7, */
+  .item-8 {
+    width: 360px;
+  }
+
   .crop-vertical-keyboard-2 img {
     width: 214px;
     height: 320px;
