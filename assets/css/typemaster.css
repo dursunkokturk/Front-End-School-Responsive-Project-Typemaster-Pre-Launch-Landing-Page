@@ -42,7 +42,7 @@
   color: #162542;
 }
 
-.typemaster-title {
+.item-1-title {
   font-family: Barlow;
   font-size: 48px;
   width: 339px;
@@ -50,7 +50,7 @@
   margin-bottom: 32px;
 }
 
-.typemaster-write {
+.item-1-write {
   font-family: Barlow;
   width: 339px;
   margin-inline: 24px;
@@ -177,6 +177,7 @@ span {
   .boxes {
     margin-bottom: 142px;
   }
+
   .container {
     border: 1px solid black;
     width: 768px;
@@ -191,7 +192,7 @@ span {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .typemaster {
+  .item-1 {
     width: 339px;
   }
 
@@ -251,7 +252,7 @@ span {
     margin-right: 24px;
     text-align: start;
   }
-  
+
   .write {
     width: 300px;
     align-content: center;
@@ -278,5 +279,29 @@ span {
 
   .hero img {
     margin-right: 400px;
+  }
+
+  .boxes {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .item-1 {
+    width: 500px;
+    margin-right: 50px;
+  }
+
+  .keyboard-title-and-write {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .write {
+    width: 200px;
+  }
+
+  .crop-vertical-keyboard-1 {
+    width: 99%;
+    /* overflow: hidden; */
   }
 }
