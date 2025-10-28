@@ -291,6 +291,10 @@ span {
     margin-right: 50px;
   }
 
+  .date {
+    width: 100px;
+  }
+
   .item-3,
   .item-4 {
     display: flex;
