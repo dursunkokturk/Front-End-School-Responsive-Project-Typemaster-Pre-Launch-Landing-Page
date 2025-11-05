@@ -5,15 +5,20 @@
 }
 
 /* Mobile Start */
-.boxes {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-}
+
 
 .container {
   margin: auto;
   border: 1px solid black;
   width: 375px;
+}
+
+h4 {
+  font-family: Barlow;
+  font-weight: 500;
+  color: #7B8BAD;
+  margin-inline: 24px;
+  margin-bottom: 32px;
 }
 
 .hero {
@@ -24,66 +29,137 @@
   margin-inline: 24px;
   border: 1px solid red;
   margin-bottom: 64px;
+
+  img {
+    width: 40px;
+    height: 40px;
+    margin-right: 60px;
+  }
+
+  h4 {
+    font-family: Barlow;
+    font-size: 16px;
+    font-weight: 700;
+    height: 40px;
+    background-color: #E8EFF2;
+    padding: 11px 13px;
+    color: #162542;
+  }
 }
 
-.hero img {
-  width: 40px;
-  height: 40px;
-  margin-right: 60px;
+
+.section-1 {
+
+  .item-1 {
+    width: 327px;
+    margin-bottom: 32px;
+
+    .title {
+      font-family: Barlow;
+      font-size: 48px;
+      line-height: 48px;
+      margin-inline: 24px;
+      margin-bottom: 32px;
+      text-align: center;
+    }
+
+    .write {
+      font-family: Barlow;
+      font-size: 16px;
+      font-weight: 500;
+      color: #7B8BAD;
+      margin-inline: 24px;
+    }
+
+    .button-and-write {
+      display: flex;
+      flex-direction: row;
+      width: 375px;
+
+      .order {
+        font-family: Barlow;
+        font-size: 16px;
+        font-weight: 700;
+        width: 280px;
+        color: white;
+        background-color: #F16718;
+        padding: 11px 14px;
+        margin-bottom: 64px;
+      }
+
+      .date {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+      }
+    }
+  }
+
+  .item-2 {
+    img {
+      width: 372px;
+    }
+  }
 }
 
-.hero h4 {
-  font-family: Barlow;
-  font-size: 16px;
-  font-weight: 700;
-  height: 40px;
-  background-color: #E8EFF2;
-  padding: 11px 13px;
-  color: #162542;
+.section-2 {
+  .item-3 {
+    .keyboard-2 {
+      width: 129px;
+      height: auto;
+      clip-path: inset(0 0 0 10px);
+    }
+
+    .keyboard-3 {
+      width: 220px;
+    }
+  }
+
+  .item-4 {
+
+    .title {
+      font-family: Barlow;
+      font-size: 32px;
+      line-height: 36px;
+      margin-inline: 60px;
+      text-align: center;
+      margin-bottom: 24px;
+    }
+
+    .write {
+      font-family: Barlow;
+      font-size: 16px;
+      font-weight: 500;
+      color: #7B8BAD;
+      margin-inline: 24px;
+    }
+  }
 }
 
-.item-1-title {
-  font-family: Barlow;
-  font-size: 48px;
-  width: 339px;
-  margin-inline: 24px;
-  margin-bottom: 32px;
+.section-3 {
+
+
+  .logo-title-write {
+    h2 {
+      font-family: Barlow;
+      font-size: 24px;
+      line-height: 28px;
+      margin-inline: 24px;
+      text-align: center;
+      margin-bottom: 24px;
+    }
+  }
+
+  .logo {
+    margin-inline: 155px;
+    margin-bottom: 48px;
+  }
 }
 
-.item-1-write {
-  font-family: Barlow;
-  width: 339px;
-  margin-inline: 24px;
-  margin-bottom: 32px;
-}
 
-.container h4 {
-  font-family: Barlow;
-  font-weight: 500;
-  color: #7B8BAD;
-  margin-inline: 24px;
-  margin-bottom: 32px;
-}
-
-.button-and-write {
-  display: flex;
-  flex-direction: row;
-}
-
-.button-and-write .order {
-  font-family: Barlow;
-  font-size: 16px;
-  font-weight: 700;
-  width: 180px;
-  color: white;
-  background-color: #F16718;
-  padding: 11px 14px;
-  margin-bottom: 64px;
-}
-
-.date {
-  justify-content: center;
-  align-content: center;
+.boxes {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
 }
 
 .crop-vertical-keyboard-1 {
@@ -97,75 +173,6 @@
   margin-left: 24px;
 }
 
-/* .crop-vertical-keyboard-2 {
-  width: 25%;
-  overflow: hidden;
-} */
-
-.crop-vertical-keyboard-2 img {
-  width: 129px;
-  height: 193px;
-  /* margin-left: 24px; */
-  clip-path: inset(0 0 0 10px);
-}
-
-.crop-vertical-keyboard-3 img {
-  width: 220px;
-  height: 193px;
-  /* margin-left: 24px; */
-  /* clip-path: inset(0 0 0 10px); */
-}
-
-.keyboard-1 {
-  margin-left: 18px;
-  margin-bottom: 24px;
-}
-
-.keyboards {
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 75px;
-}
-
-.keyboards img {
-  margin-right: 20px;
-}
-
-.keyboard-title-and-write {
-  margin-bottom: 111px;
-}
-
-.title {
-  font-family: Barlow;
-  font-size: 32px;
-  line-height: 36px;
-  margin-inline: 60px;
-  text-align: center;
-  margin-bottom: 24px;
-}
-
-.write {
-  font-family: Barlow;
-  font-size: 16px;
-  font-weight: 500;
-  color: #7B8BAD;
-  margin-inline: 24px;
-}
-
-.logo {
-  margin-inline: 155px;
-  margin-bottom: 48px;
-}
-
-.logo-title-write h2 {
-  font-family: Barlow;
-  font-size: 24px;
-  line-height: 28px;
-  margin-inline: 24px;
-  text-align: center;
-  margin-bottom: 24px;
-}
-
 span {
   font-weight: 700;
 }
@@ -175,6 +182,8 @@ span {
 /* Tablet Start */
 @media (width > 760px) {
   .boxes {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     margin-bottom: 142px;
   }
 
@@ -187,9 +196,9 @@ span {
     margin-left: 410px;
   }
 
-  .boxes {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+  .section-1 {
+    display: flex;
+    flex-direction: row;
   }
 
   .item-1 {
@@ -303,12 +312,12 @@ span {
   }
 
   .item-3 {
-    grid-row: 2; 
+    grid-row: 2;
     grid-column: 1;
   }
-  
+
   .item-4 {
-    grid-row: 2; 
+    grid-row: 2;
     grid-column: 2;
   }
 
