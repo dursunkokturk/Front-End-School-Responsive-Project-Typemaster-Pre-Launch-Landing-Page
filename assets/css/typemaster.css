@@ -139,7 +139,6 @@ h4 {
 
 .section-3 {
 
-
   .logo-title-write {
     h2 {
       font-family: Barlow;
@@ -200,10 +199,32 @@ span {
   .section-1 {
     display: flex;
     flex-direction: row;
+
+    .item-1 {
+      width: 339px;
+      margin-right: 69px;
+    }
+
+    .item-2 {
+      margin-bottom: 40px;
+    }
   }
 
-  .item-1 {
-    width: 339px;
+  .section-2 {
+    .item-3  {
+      margin-left: 39px;
+      .keyboard-2 {
+        width: 214px;
+        height: 320px;
+        margin-right: 30px;
+        clip-path: none;
+      }
+  
+      .keyboard-3 {
+        width: 445px;
+        height: 320px;
+      }
+    }
   }
 
   .crop-vertical-keyboard-1 {
@@ -217,17 +238,20 @@ span {
     margin-left: 24px;
   }
 
-  .item-2 {
-    margin-bottom: 40px;
+  .section-2 {
+
+    .item-3 {
+      grid-column: 1 / span 2;
+    }
+
+    .item-4 {
+      display: flex;
+      flex-direction: row;
+
+      grid-column: 1 / span 2;
+    }
   }
 
-  .item-3 {
-    grid-column: 1 / span 2;
-  }
-
-  .item-4 {
-    grid-column: 1 / span 2;
-  }
 
   .item-6,
   .item-8 {
