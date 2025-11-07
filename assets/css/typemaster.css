@@ -211,8 +211,11 @@ span {
   }
 
   .section-2 {
+    margin-bottom: 142px;
+    
     .item-3  {
       margin-left: 39px;
+      margin-bottom: 72px;
       .keyboard-2 {
         width: 214px;
         height: 320px;
