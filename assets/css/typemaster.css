@@ -9,7 +9,6 @@
 
 .container {
   margin: auto;
-  border: 1px solid black;
   width: 375px;
 }
 
@@ -27,7 +26,6 @@ h4 {
   height: 48px;
   margin-top: 23px;
   margin-inline: 24px;
-  border: 1px solid red;
   margin-bottom: 64px;
 
   img {
@@ -188,7 +186,6 @@ span {
   }
 
   .container {
-    border: 1px solid black;
     width: 768px;
   }
 
@@ -306,7 +303,6 @@ span {
 @media (width > 1024px) {
   .container {
     margin: auto;
-    border: 1px solid black;
     width: 1110px;
   }
 
