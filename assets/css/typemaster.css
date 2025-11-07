@@ -213,17 +213,17 @@ span {
   .section-2 {
     margin-bottom: 142px;
 
-    .item-3  {
+    .item-3 {
       margin-left: 39px;
       margin-bottom: 72px;
-      
+
       .keyboard-2 {
         width: 214px;
         height: 320px;
         margin-right: 30px;
         clip-path: none;
       }
-  
+
       .keyboard-3 {
         width: 445px;
         height: 320px;
@@ -346,43 +346,57 @@ span {
   .date {
     width: 100px;
   }
-  
 
-  .item-3,
-  .item-4 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  .section-3 {
+
+    .logo-title-write {
+      width: 255px;
+
+      h2 {
+        text-align: start;
+      }
+    }
+
+    .logo {
+      margin-left: 20px;
+      margin-bottom: 48px;
+    }
+
+    .item-3,
+    .item-4 {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .item-3 {
+      grid-row: 2;
+      grid-column: 1;
+    }
+
+    .item-4 {
+      grid-row: 2;
+      grid-column: 2;
+    }
+
+    .item-5 {
+      grid-row: 3;
+      /* grid-column: 1; */
+    }
+
+    .keyboard-title-and-write {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .write {
+      width: 200px;
+    }
+
+    .crop-vertical-keyboard-1 {
+      width: 99%;
+      /* overflow: hidden; */
+    }
   }
 
-  .item-3 {
-    grid-row: 2;
-    grid-column: 1;
-  }
-
-  .item-4 {
-    grid-row: 2;
-    grid-column: 2;
-  }
-
-  .item-5 {
-    grid-row: 3;
-    grid-column: 1;
-  }
-
-  .keyboard-title-and-write {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .write {
-    width: 200px;
-  }
-
-  .crop-vertical-keyboard-1 {
-    width: 99%;
-    /* overflow: hidden; */
-  }
-}
-
-/* Computer End */
+  /* Computer End */
