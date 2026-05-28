@@ -20,8 +20,8 @@ Saf HTML & CSS — JavaScript veya harici kütüphane kullanılmaz <br>
 
 | Ekran    | Genişlik         | Öne Çıkan Değişiklikler                                |
 | -------- |:----------------:| ------------------------------------------------------:|
-| Mobil    | 375px Varsayılan | Tek sütun, hamburger menü                              |
-| Tablet   | > 767px          | 2 sütunlu grid, gizli üçüncü blog kartı                |
+| Mobil    | 375px Varsayılan | Tek sütun, hamburger menü |
+| Tablet   | > 767px          | 2 sütunlu grid, gizli üçüncü blog kartı |
 | Masaüstü | > 1109px         | 3 sütunlu grid, tam navbar, koşullu görsel değişimi    |
 
 ## Teknolojiler
