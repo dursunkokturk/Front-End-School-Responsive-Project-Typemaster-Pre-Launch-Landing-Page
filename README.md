@@ -51,10 +51,10 @@ Proje herhangi bir bağımlılık gerektirmez. Klonladıktan sonra doğrudan tar
 bash# Repoyu klonlayın
 git clone https://github.com/kullanici-adi/typemaster-landing.git
 
-# Proje klasörüne girin
+### Proje klasörüne girin
 cd typemaster-landing
 
-# index.html dosyasını tarayıcıda açın
+### index.html dosyasını tarayıcıda açın
 open index.html
 
 ## Tasarım Detayları
