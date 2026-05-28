@@ -63,15 +63,16 @@ open index.html
 
 ## Tasarım Detayları
 
-Renk Paleti:
+1. Renk Paleti:
 
-#F16718 — Turuncu vurgu (CTA butonu) <br>
-#162542 — Koyu lacivert (başlıklar) <br>
-#7B8BAD — Gri-mavi (gövde metni) <br>
-#E8EFF2 — Açık gri (arka plan detayları) <br> <br>
+  ....* #F16718 — Turuncu vurgu (CTA butonu) <br>
+  ....* #162542 — Koyu lacivert (başlıklar) <br>
+  ....* #7B8BAD — Gri-mavi (gövde metni) <br>
+  ....* #E8EFF2 — Açık gri (arka plan detayları) <br> <br>
 
 
-Font: Barlow (700 ve 500 ağırlıkları)
+2. Font:
+   ....* Barlow (700 ve 500 ağırlıkları)
 
 
 
