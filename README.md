@@ -17,10 +17,12 @@ Saf HTML & CSS — JavaScript veya harici kütüphane kullanılmaz <br>
 
 
 ## Duyarlı Düzenler
-Ekran Genişlik Düzen <br>
-Mobil375pxTek sütun, dikey akış <br>
-Tablet> 760pxİki sütunlu grid, yan yana görseller <br>
-Masaüstü> 1024pxDört sütunlu özellik kartları, geniş hero <br>
+
+| Ekran    | Genişlik         | Öne Çıkan Değişiklikler                                |
+| -------- |:----------------:| ------------------------------------------------------:|
+| Mobil    | 375px Varsayılan | Tek sütun, hamburger menü                              |
+| Tablet   | > 767px          | 2 sütunlu grid, gizli üçüncü blog kartı                |
+| Masaüstü | > 1109px         |    3 sütunlu grid, tam navbar, koşullu görsel değişimi |
 
 ## Teknolojiler
 Teknoloji Açıklama <br>
