@@ -25,10 +25,12 @@ Saf HTML & CSS — JavaScript veya harici kütüphane kullanılmaz <br>
 | Masaüstü | > 1109px         | 3 sütunlu grid, tam navbar, koşullu görsel değişimi    |
 
 ## Teknolojiler
-Teknoloji Açıklama <br>
-HTML5Semantik sayfa yapısı <br>
-CSS3Grid, Flexbox, @media sorguları <br>
-Google FontsBarlow yazı ailesi <br>
+  
+| Teknoloji    | Açıklama                        |
+| ------------ |---------------------------------|
+| HTML5        | Semantik sayfa yapısı           |
+| CSS3         | Grid, Flexbox, @media sorguları |
+| Google Fonts | Barlow yazı ailesi              | 
 
 ## Proje Yapısı
 typemaster/ <br>
