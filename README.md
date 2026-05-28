@@ -73,7 +73,7 @@ Font: Barlow (700 ve 500 ağırlıkları)
 
 
 
-
+# EN
 # Typemaster Pre-Launch Landing Page
 A responsive pre-launch landing page built with pure HTML and CSS, designed to collect pre-orders before the Typemaster mechanical keyboard goes on sale.
 
