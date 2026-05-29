@@ -87,11 +87,11 @@ A responsive pre-launch landing page built with pure HTML and CSS, designed to c
 
 ## Features
 
-Pre-Order Call to Action — A prominent CTA button with a release date to drive user action <br>
-Product Gallery — Multiple keyboard images showcasing the product with cropping and layout techniques <br>
-Feature Cards — 4 cards highlighting broad compatibility, Bluetooth, long battery life, and RGB backlighting <br>
-Fully Responsive Design — Separate layouts for mobile (375px), tablet (768px), and desktop (1110px) <br>
-Pure HTML & CSS — No JavaScript or external libraries used <br>
+- Pre-Order Call to Action — A prominent CTA button with a release date to drive user action <br>
+- Product Gallery — Multiple keyboard images showcasing the product with cropping and layout techniques <br>
+- Feature Cards — 4 cards highlighting broad compatibility, Bluetooth, long battery life, and RGB backlighting <br>
+- Fully Responsive Design — Separate layouts for mobile (375px), tablet (768px), and desktop (1110px) <br>
+- Pure HTML & CSS — No JavaScript or external libraries used <br>
 
 
 ## Responsive Layouts
