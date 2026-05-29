@@ -6,6 +6,7 @@ Typemaster mekanik klavyesinin piyasaya çıkışından önce ön sipariş topla
 
 [Projenin deploy edildikten sonraki önizlemsi.](https://dursunkokturk.github.io/Front-End-School-Responsive-Project-Typemaster-Pre-Launch-Landing-Page/)
 
+![Proje Görseli](img/css-project-typemaster-pre-launch-landing-page.png)
 
 ## Özellikler
 
