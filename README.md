@@ -96,11 +96,11 @@ A responsive pre-launch landing page built with pure HTML and CSS, designed to c
 
 ## Responsive Layouts
 
-| Screen   | Width                              | Layout              |
-| -------- |------------------------------------| --------------------|
-| Mobile   | 375px Single column                | vertical flow       |
-| Tablet   | > 767px Two-column grid            | side-by-side images |
-| Desktop  | > 1109px Four-column feature cards | wide hero           |
+| Screen   | Width         | Layout                                |
+| -------- |---------------| --------------------------------------|
+| Mobile   | 375px Default | Single column, Vertical flow          |
+| Tablet   | > 767px       |  Two-column grid, Side-by-side images |
+| Desktop  | > 1109px      | Four-column feature cards, wide hero  |
 
 ## Technologies
 
