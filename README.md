@@ -104,10 +104,6 @@ Pure HTML & CSS — No JavaScript or external libraries used <br>
 | Desktop  | > 1109px Four-column feature cards | wide hero           |
 
 ## Technologies
-  <br>
-HTML5 <br>
-CSS3Grid, Flexbox, @media queries <br>
-Google Fonts <br>
 
 | Technology   | Description                     |
 | ------------ |---------------------------------|
