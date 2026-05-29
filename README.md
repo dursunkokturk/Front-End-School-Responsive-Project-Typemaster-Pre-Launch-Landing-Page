@@ -150,4 +150,4 @@ open index.html
   - #E8EFF2 — Light gray (background details) <br> <br>
 
 
-Font: Barlow (weights 700 and 500)
+- Font: Barlow (weights 700 and 500)
