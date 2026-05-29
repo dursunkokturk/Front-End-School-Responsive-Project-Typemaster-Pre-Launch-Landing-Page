@@ -9,11 +9,11 @@ Typemaster mekanik klavyesinin piyasaya çıkışından önce ön sipariş topla
 
 ## Özellikler
 
-Ön Sipariş Çağrısı — Kullanıcıyı aksiyona yönlendiren belirgin CTA butonu ve yayın tarihi bilgisi <br>
-Ürün Galerisi — Birden fazla klavye görseli, kırpma ve yerleşim teknikleriyle zengin bir ürün vitrini <br>
-Özellik Kartları — Yüksek uyumluluk, Bluetooth, uzun pil ömrü ve RGB arka ışık özelliklerini öne çıkaran 4 kart <br>
-Tam Duyarlı Tasarım — Mobil (375px), tablet (768px) ve masaüstü (1110px) için ayrı düzenler <br>
-Saf HTML & CSS — JavaScript veya harici kütüphane kullanılmaz <br>
+- Ön Sipariş Çağrısı — Kullanıcıyı aksiyona yönlendiren belirgin CTA butonu ve yayın tarihi bilgisi <br>
+- Ürün Galerisi — Birden fazla klavye görseli, kırpma ve yerleşim teknikleriyle zengin bir ürün vitrini <br>
+- Özellik Kartları — Yüksek uyumluluk, Bluetooth, uzun pil ömrü ve RGB arka ışık özelliklerini öne çıkaran 4 kart <br>
+- Tam Duyarlı Tasarım — Mobil (375px), tablet (768px) ve masaüstü (1110px) için ayrı düzenler <br>
+- Saf HTML & CSS — JavaScript veya harici kütüphane kullanılmaz <br>
 
 
 ## Duyarlı Düzenler
