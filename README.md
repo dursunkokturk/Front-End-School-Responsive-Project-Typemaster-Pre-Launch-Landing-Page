@@ -95,16 +95,25 @@ Pure HTML & CSS — No JavaScript or external libraries used <br>
 
 
 ## Responsive Layouts
-Screen Width Layout <br>
-Mobile375pxSingle column, vertical flow <br>
-Tablet> 760pxTwo-column grid, side-by-side images <br>
-Desktop> 1024pxFour-column feature cards, wide hero <br>
+> 1024px,  <br>
+
+| Screen   | Width                              | Layout              |
+| -------- |------------------------------------| --------------------|
+| Mobile   | 375px Single column                | vertical flow       |
+| Tablet   | > 767px Two-column grid            | side-by-side images |
+| Desktop  | > 1109px Four-column feature cards | wide hero           |
 
 ## Technologies
-Technology Description <br>
-HTML5Semantic page structure <br>
+  <br>
+HTML5 <br>
 CSS3Grid, Flexbox, @media queries <br>
-Google FontsBarlow font family <br>
+Google Fonts <br>
+
+| Technology   | Description                     |
+| ------------ |---------------------------------|
+| HTML5        | Semantic page structure         |
+| CSS3         | Grid, Flexbox, @media sorguları |
+| Google Fonts | Barlow font family              | 
 
 ## Project Structure
 typemaster/ <br>
@@ -137,12 +146,12 @@ open index.html
 
 ## Design Details
 
-Color Palette:
+- Color Palette:
 
-#F16718 — Orange accent (CTA button) <br>
-#162542 — Dark navy (headings) <br>
-#7B8BAD — Gray-blue (body text) <br>
-#E8EFF2 — Light gray (background details) <br> <br>
+  - #F16718 — Orange accent (CTA button) <br>
+  - #162542 — Dark navy (headings) <br>
+  - #7B8BAD — Gray-blue (body text) <br>
+  - #E8EFF2 — Light gray (background details) <br> <br>
 
 
 Font: Barlow (weights 700 and 500)
