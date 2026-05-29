@@ -95,7 +95,6 @@ A responsive pre-launch landing page built with pure HTML and CSS, designed to c
 
 
 ## Responsive Layouts
-> 1024px,  <br>
 
 | Screen   | Width                              | Layout              |
 | -------- |------------------------------------| --------------------|
