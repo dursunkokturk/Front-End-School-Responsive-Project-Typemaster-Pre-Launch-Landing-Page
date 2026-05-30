@@ -57,7 +57,7 @@ bash# Repoyu klonlayın <br>
 git clone https://github.com/dursunkokturk/Front-End-School-Responsive-Project-Typemaster-Pre-Launch-Landing-Page.git
 
 ### Proje klasörüne girin
-cd typemaster-landing
+cd Front-End-School-Responsive-Project-Typemaster-Pre-Launch-Landing-Page
 
 ### index.html dosyasını tarayıcıda açın
 open index.html
@@ -70,7 +70,6 @@ open index.html
   - #162542 — Koyu lacivert (başlıklar) <br>
   - #7B8BAD — Gri-mavi (gövde metni) <br>
   - #E8EFF2 — Açık gri (arka plan detayları) <br> <br>
-
 
 - Font:
    - Barlow (700 ve 500 ağırlıkları)
