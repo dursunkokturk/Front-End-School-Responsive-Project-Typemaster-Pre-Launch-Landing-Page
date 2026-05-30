@@ -54,7 +54,7 @@ typemaster/ <br>
 ## Kurulum
 Proje herhangi bir bağımlılık gerektirmez. Klonladıktan sonra doğrudan tarayıcıda açabilirsiniz. <br>
 bash# Repoyu klonlayın <br>
-git clone https://github.com/kullanici-adi/typemaster-landing.git
+git clone https://github.com/dursunkokturk/Front-End-School-Responsive-Project-Typemaster-Pre-Launch-Landing-Page.git
 
 ### Proje klasörüne girin
 cd typemaster-landing
