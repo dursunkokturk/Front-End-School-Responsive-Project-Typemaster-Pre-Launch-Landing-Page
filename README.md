@@ -4,7 +4,7 @@ Typemaster mekanik klavyesinin piyasaya çıkışından önce ön sipariş topla
 
 ## Canlı Önizleme
 
-[Projenin deploy edildikten sonraki önizlemsi.](https://dursunkokturk.github.io/Front-End-School-Responsive-Project-Typemaster-Pre-Launch-Landing-Page/)
+[Proje önizlemesi.](https://dursunkokturk.github.io/Front-End-School-Responsive-Project-Typemaster-Pre-Launch-Landing-Page/)
 
 ![Proje Görseli](assets/img/css-project-typemaster-pre-launch-landing-page.png)
 
@@ -85,6 +85,8 @@ A responsive pre-launch landing page built with pure HTML and CSS, designed to c
 
 ## Live Preview
 [Click here to view the deployed project.](https://dursunkokturk.github.io/Front-End-School-Responsive-Project-Typemaster-Pre-Launch-Landing-Page/)
+
+![Proje Görseli](assets/img/css-project-typemaster-pre-launch-landing-page.png)
 
 ## Features
 
