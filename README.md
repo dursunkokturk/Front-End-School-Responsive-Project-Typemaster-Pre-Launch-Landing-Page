@@ -140,7 +140,7 @@ git clone https://github.com/kullanici-adi/typemaster-landing.git
 cd Front-End-School-Responsive-Project-Typemaster-Pre-Launch-Landing-Page
 
 ## Open index.html in the browser
-Open it by double-clicking inside the project folder, or
+Open it by double-clicking inside the project folder, or <br>
 open the project in VSCode, right-click on the index.html file, and select "Open With Live Server" to launch it in the browser.
 
 ## Design Details
