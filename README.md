@@ -60,7 +60,8 @@ git clone https://github.com/dursunkokturk/Front-End-School-Responsive-Project-T
 cd Front-End-School-Responsive-Project-Typemaster-Pre-Launch-Landing-Page
 
 ### index.html dosyasını tarayıcıda açın
-open index.html
+Proje klasörü içinde çift tıklayarak yada <br>
+Projeyi VSCode içinde açıp index.html dosyasının üzerinde sağ tıkladıktan sonra "Open With Live Server" tıklayarak projeyi browser'da açıyoruz.
 
 ## Tasarım Detayları
 
@@ -135,11 +136,12 @@ No dependencies required. Simply clone the repo and open the file in your browse
 bash# Clone the repository <br>
 git clone https://github.com/kullanici-adi/typemaster-landing.git
 
-### Navigate to the project folder
-cd typemaster-landing
+## Navigate to the project folder
+cd Front-End-School-Responsive-Project-Typemaster-Pre-Launch-Landing-Page
 
-### Open index.html in your browser
-open index.html
+## Open index.html in the browser
+Open it by double-clicking inside the project folder, or
+open the project in VSCode, right-click on the index.html file, and select "Open With Live Server" to launch it in the browser.
 
 ## Design Details
 
