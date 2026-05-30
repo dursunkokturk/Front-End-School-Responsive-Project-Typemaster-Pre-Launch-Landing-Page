@@ -53,7 +53,7 @@ typemaster/ <br>
 
 ## Kurulum
 Proje herhangi bir bağımlılık gerektirmez. Klonladıktan sonra doğrudan tarayıcıda açabilirsiniz. <br>
-bash# Repoyu klonlayın
+bash# Repoyu klonlayın <br>
 git clone https://github.com/kullanici-adi/typemaster-landing.git
 
 ### Proje klasörüne girin
